@@ -39,7 +39,7 @@ A personal dashboard application built with Next.js, TypeScript, and Tailwind CS
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/milesdredd/streakSphere.git
     ```
 2.  Navigate to the project directory:
     ```bash
