@@ -80,4 +80,4 @@ The application will be available at [http://localhost:9002](http://localhost:90
 
 ## Deployment
 
-This project is configured for deployment with [Firebase App Hosting](https://firebase.google.com/docs/app-hosting). The `apphosting.yaml` file contains the basic configuration for deployment.
+This app is live [Here](https://streak-sphere.vercel.app/dashboard)
