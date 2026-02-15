@@ -58,7 +58,7 @@ To start the development server, run the following command:
 npm run dev
 ```
 
-The application will be available at [http://localhost:9002](http://localhost:9002).
+The application will be available at [http://localhost:9002](https://streak-sphere.vercel.app/dashboard).
 
 ## Project Structure
 
